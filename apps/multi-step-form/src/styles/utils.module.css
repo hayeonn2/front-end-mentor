@@ -1,0 +1,16 @@
+:root {
+  --theme-white-color: #ffffff;
+  --theme-black-color: #000000;
+  --theme-denim-color: hsl(213, 96%, 18%);
+  --theme-purplish-color: hsl(243, 100%, 62%);
+  --theme-pastel-color: hsl(228, 100%, 84%);
+  --theme-light-blue-color: hsl(206, 94%, 87%);
+  --theme-orange-color: #ffaf7e;
+  --theme-pink-color: #f9818e;
+  --theme-red-color: hsl(354, 84%, 57%);
+  --theme-border-color: hsl(229, 24%, 87%);
+  --theme-very-light-color: #f8f9ff;
+  --theme-light-gray-color: #d6d9e6;
+  --theme-gray-color: hsl(231, 11%, 63%);
+  --theme-background-color: #eff5ff;
+}
